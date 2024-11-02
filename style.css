@@ -18,8 +18,8 @@ h1 {
 }
 
 #game-area {
-    width: 400px;
-    height: 400px;
+    width: 410px;
+    height: 410px;
     position: relative;
     border: 2px solid #00796b;
     background-color: #c8e6c9;
